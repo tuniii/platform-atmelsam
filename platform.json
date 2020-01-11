@@ -44,7 +44,7 @@
     "framework-arduinosam": {
       "type": "framework",
       "optional": true,
-      "version": "https://github.com/tuniii/ArduinoCore-samd.git"
+      "version": "https://github.com/tuniii/platformio-pkg-framework-arduinosam.git"
     },
     "framework-mbed": {
       "type": "framework",
