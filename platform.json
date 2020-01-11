@@ -44,7 +44,7 @@
     "framework-arduinosam": {
       "type": "framework",
       "optional": true,
-      "version": "~4.4.0"
+      "version": "https://github.com/tuniii/ArduinoCore-samd.git"
     },
     "framework-mbed": {
       "type": "framework",
